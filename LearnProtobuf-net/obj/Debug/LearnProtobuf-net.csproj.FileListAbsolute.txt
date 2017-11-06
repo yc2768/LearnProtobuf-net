@@ -1,0 +1,13 @@
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\LearnProtobuf-net.exe.config
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\LearnProtobuf-net.exe
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\LearnProtobuf-net.pdb
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\protobuf-net.dll
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\obj\Debug\LearnProtobuf-net.csprojResolveAssemblyReference.cache
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\obj\Debug\LearnProtobuf-net.exe
+F:\Github\CppLearn\LearnProtobuf-net\LearnProtobuf-net\obj\Debug\LearnProtobuf-net.pdb
+F:\Github\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\LearnProtobuf-net.exe.config
+F:\Github\LearnProtobuf-net\LearnProtobuf-net\obj\Debug\LearnProtobuf-net.exe
+F:\Github\LearnProtobuf-net\LearnProtobuf-net\obj\Debug\LearnProtobuf-net.pdb
+F:\Github\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\LearnProtobuf-net.exe
+F:\Github\LearnProtobuf-net\LearnProtobuf-net\bin\Debug\LearnProtobuf-net.pdb
+F:\Github\LearnProtobuf-net\LearnProtobuf-net\obj\Debug\LearnProtobuf-net.csprojResolveAssemblyReference.cache
